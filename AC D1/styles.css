@@ -1,0 +1,22 @@
+body {
+    background-color: #CF8E80;
+    font-family: 'Dosis', Arial, Helvetica;
+}
+
+h1 {
+    font-family: 'Ephesis', Arial, Helvetica;
+}
+
+h2 {
+    font-family: 'Ephesis', Arial, Helvetica;
+}
+
+h3 {
+    font-family: 'Ephesis', Arial, Helvetica;
+}
+
+.post {
+    margin: 2em;
+    border: 1px solid #FAF6F6;
+    padding: 1em;
+}
